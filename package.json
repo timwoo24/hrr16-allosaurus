@@ -8,7 +8,6 @@
     "npm": "3.8.6"
   },
   "scripts": {
-    "test": "test",
     "postinstall": "bower install"
   },
   "repository": {
